@@ -1,0 +1,15 @@
+{
+    "visible": true,
+    "name": "SDKBackup",
+    "description": "Desenvolvimento de script de backup para a empresa SDK, com compatibilidade com a plataforma SDKApps. A solução foi implementada como medida temporária, atuando também como camada adicional de segurança e proteção de dados.",
+    "type":"company",
+    "status": "complete",
+    "deploy": "",
+    "technologies": [
+        "JavaScript",
+        "NodeJS"
+    ],
+    "pinned": true,
+    "banner":"https://res.cloudinary.com/dmfgy0ccd/image/upload/v1726657603/CAPA-PIXEL_ftgohk.gif",
+    "complete": true
+}
